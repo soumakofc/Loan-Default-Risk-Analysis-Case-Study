@@ -13,9 +13,9 @@ The primary objective of this project is to identify key drivers of loan default
 
 ## Data
 
-* **Data Sources:**
-    * Application Data: Information about the client's loan application.
-    * Previous Application Data: Information about clients' previous loan applications.
+* **Data Sources:** [https://drive.google.com/drive/folders/1K02oTg_fWQseO0T6uQXvo8j532eidkC2?usp=sharing]
+    * Application Data: Information about the client's loan application. 
+    * Previous Application Data: Information about clients' previous loan applications. 
 
 * **Data Cleaning and Preprocessing:**
     * Performed proper Data cleaning steps including handling missing values, outlier detection, etc.
